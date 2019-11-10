@@ -4,7 +4,7 @@ Hunter Helper IOS App
 
 ## Team Members
 - Cory Lewis
-- tbd....
+- Roderic Kong
 
 ## What's Hunter Helper?
 
